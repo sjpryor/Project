@@ -1,0 +1,3 @@
+const app = require("express");
+const bodyParser = require("bodyParser")
+app.use(bodyParser);
